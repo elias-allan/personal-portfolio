@@ -4,7 +4,7 @@ email = "allan.elia@outlook.com"
 phone = "+44 7514164136"
 birthday = "09-Feb"
 location = "London, UK"
-avatar = "./config/assets/avatars/my-avatar.png"
+avatar = "./config/assets/avatars/lkd-allan-01.jpeg"
 username = "elias-allan" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39523.591835995874!2d-0.35549857803643825!3d51.74721844824657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487638a0e793c909%3A0x71ec848046a64059!2sSt%20Albans!5e0!3m2!1sen!2suk!4v1731245429057!5m2!1sen!2suk"
 presentation = """

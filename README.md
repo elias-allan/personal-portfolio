@@ -28,5 +28,5 @@ responsive for all devices, built using **`HTML`**, **`CSS`**, **`JavaScript`**,
 ![Demo][demo]
 **`Live Demo:`** 👉🏽 [personal-portfolio.github.io][devfolio]
 
-</div>
+<!-- </div> -->
 

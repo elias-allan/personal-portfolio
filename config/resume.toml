@@ -1,19 +1,19 @@
 ############## Education config #################
 #################################################
-[[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+# [[education]]
+# title = "MSc Artificial Intelligence & Machine Learning"
+# timeline = "2020 — 2021"
+# description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
+title = "BEng Electronic Communication Engineering"
+timeline = "2017 — 2020"
+description = "Intelligent Systems and Robotics,Digital Signal Processing,Digital Design & Embedded System,Mechatronic Systems Modelling and control,"
 
 [[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "MSc Artificial Intelligence & Machine Learning"
+timeline = "2020 — 2021"
+description = "Machine Learning and Intelligent Data Analysis,Neural Networks,Intelligent robotics ,Computer Vision and Imaging,Mathematics for Artificial Intelligent "
 
 
 ############## Experience config ################
@@ -36,7 +36,7 @@ description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum deleni
 
 ############## Skills config ####################
 #################################################
-[skills] 
+[skills]
 title = "My Skills"
 enabled = true
 show_bar = true
