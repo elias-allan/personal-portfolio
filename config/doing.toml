@@ -1,19 +1,19 @@
 [[doing]]
-title = "Mobile Apps"
+title = "Data Engineering"
 icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of applications for iOS and Android."
+text = "Modern Data platform with Azure Synapse & Microsoft Fabric, Data Migration, Data Integration"
 
 [[doing]]
-title = "Scripting"
+title = "Data Warehouse solutions"
 icon = "./config/assets/icons/code.svg"
-text = "Automation and task scripting using Python to enhance efficiency and productivity."
+text = "Database Design, Data Modelling, SQL Data Integration, SQL Query Optimization, Azure Data Warehouse"
 
 [[doing]]
-title = "UI/UX Designing"
+title = "Data Platform Deployment"
 icon = "./config/assets/icons/compass.svg"
-text = "Intuitive and visually appealing user interfaces and user experiences."
+text = "Build-Deploy Azure CICD Data Platforms with Azure DevOps & GitHub Actions"
 
 [[doing]]
-title = "Web Development"
+title = "Data Analytics Engineering"
 icon = "./config/assets/icons/laptop-code.svg"
-text = "High-quality development of sites at the professional level."
+text = "Build-train-deploy ML models, MLOps, Power BI Modelling & Reporting"
