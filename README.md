@@ -1,15 +1,15 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://elias-allan.github.io/personal-portfolio">Personal Portfolio - Developer</a></b>
+    <b><a href="https://ivansaul.github.io/personal-portfolio">Personal Portfolio - Developer</a></b>
 </h1>
 
 **`Personal Portfolio`** is a fully responsive personal developer portfolio single-page website, <br/>
 responsive for all devices, built using **`HTML`**, **`CSS`**, **`JavaScript`**, and **`Python`**.
 
 ![Made-with-python](https://img.shields.io/badge/Made%20with-Python-orange)
-[![Jinja](https://github.com/elias-allan/personal-portfolio/actions/workflows/jinja.yml/badge.svg)](https://github.com/elias-allan/personal-portfolio/actions/workflows/jinja.yml)
-![GitHub repo size](https://img.shields.io/github/repo-size/elias-allan/personal-portfolio)
+[![Jinja](https://github.com/ivansaul/personal-portfolio/actions/workflows/jinja.yml/badge.svg)](https://github.com/ivansaul/personal-portfolio/actions/workflows/jinja.yml)
+![GitHub repo size](https://img.shields.io/github/repo-size/ivansaul/personal-portfolio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![GitHub stars][github-stars]
@@ -37,7 +37,7 @@ responsive for all devices, built using **`HTML`**, **`CSS`**, **`JavaScript`**,
 Fork this project and rename the repo to `your_github_username.github.io`.
 
 > [!IMPORTANT]
-> For example, if your GitHub username is `elias-allan`. Rename the repository to `elias-allan.github.io`
+> For example, if your GitHub username is `ivansaul`. Rename the repository to `ivansaul.github.io`
 
 ### Step 2
 
@@ -126,12 +126,12 @@ This project is based on [vcard portfolio][vcard]. The main focus of this projec
 MIT
 
 [vcard]: https://github.com/codewithsadee/vcard-personal-portfolio
-[devfolio]: https://elias-allan.github.io/personal-portfolio
-[demo]: https://raw.githubusercontent.com/elias-allan/demos/master/python/personal-portfolio-demo.gif
+[devfolio]: https://ivansaul.github.io/personal-portfolio
+[demo]: https://raw.githubusercontent.com/ivansaul/demos/master/python/personal-portfolio-demo.gif
 [discord]: https://discord.com/users/744755977684779038
-[issue]: https://github.com/elias-allan/personal-portfolio/issues
-[github-stars]: https://img.shields.io/github/stars/elias-allan/personal-portfolio?style=social
-[github-forks]: https://img.shields.io/github/forks/elias-allan/personal-portfolio?style=social
+[issue]: https://github.com/ivansaul/personal-portfolio/issues
+[github-stars]: https://img.shields.io/github/stars/ivansaul/personal-portfolio?style=social
+[github-forks]: https://img.shields.io/github/forks/ivansaul/personal-portfolio?style=social
 [desktop-screenshot]: https://i.imgur.com/xKkMSwR.png
 [mobile-screenshot]: https://i.imgur.com/G1A1nBu.png
 [imgur]: https://imgur.com
