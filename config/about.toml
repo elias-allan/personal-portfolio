@@ -1,7 +1,7 @@
 name = "Allan Elias"
 rol = "Data Engineer"
 email = "allan.elia@outlook.com"
-phone = "+44 07514164136"
+phone = "+44 7514164136"
 birthday = "09-Feb"
 location = "London, UK"
 avatar = "./config/assets/avatars/my-avatar.png"
