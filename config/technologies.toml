@@ -8,10 +8,11 @@ enabled = true                 # false
 # Technology I have worked with
 # name = "./.../../icon_path"
 [technologies]
-data_factory = "./config/assets/icons/10126-service-Data-Factories.svg"
-databricks = "./config/assets/icons/10787-service-Azure-Databricks.svg"
-machinelearning = "./config/assets/icons/10166-service-Machine-Learning.svg"
-logicApps = "./config/assets/icons/02631-service-Logic-Apps.svg"
+data_factory = "./config/assets/icons/10126-icon-service-Data-Factories.svg"
+databricks = "./config/assets/icons/10787-icon-service-Azure-Databricks.svg"
+machinelearning = "./config/assets/icons/10166-icon-service-Machine-Learning.svg"
+powerbi = "./config/assets/icons/10132-icon-service-SQL-Server.svg"
+logicApps = "./config/assets/icons/02631-icon-service-Logic-Apps.svg"
 python = "./config/assets/icons/python.svg"
 pandas = "./config/assets/icons/pandas.svg"
 # mongodb = "./config/assets/icons/mongodb.svg"
