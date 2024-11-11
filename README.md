@@ -25,8 +25,8 @@ responsive for all devices, built using **`HTML`**, **`CSS`**, **`JavaScript`**,
 
 <div align="center">
 
-![Demo][demo]
-**`Live Demo:`** 👉🏽 "https://elias-allan.github.io/personal-portfolio"
+<!-- ![Demo][demo]
+**`Personal Portfolio:`** 👉🏽 "https://elias-allan.github.io/personal-portfolio"
 
-<!-- </div> -->
+<!-- </div> --> -->
 
