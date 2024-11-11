@@ -23,61 +23,73 @@ image = "./config/assets/icons/microsoft-certified-azure-data-scientist-associat
 url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/ECF9DE8C5A918F9B?sharingId=EF9D6197CA26569F"
 
 [[project]]
-title = "Codigo Facilito Downloader"
-category = "Python Scripting"
-image = "https://imgur.com/kyHrBGk.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
+title = "Azure Data Fundamentals"
+category = "Azure Certifications"
+image = "./config/assets/icons/microsoft-certified-azure-data-fundamentals.png"
+url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/8B7B5B3247CC780A?sharingId=EF9D6197CA26569F"
 
 [[project]]
-title = "Finance"
-category = "Web development"
-image = "./config/assets/projects/project-1.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Azure Fundamentals"
+category = "Azure Certifications"
+image = "./config/assets/icons/microsoft-certified-azure-fundamentals.png"
+url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/334A9DFEBAA68572?sharingId=EF9D6197CA26569F"
 
 [[project]]
-title = "Orizon"
-category = "Web development"
-image = "./config/assets/projects/project-2.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "Dynamic Data with ADF"
+category = "Data Engineering"
+image = "./config/assets/projects/ccm-dd-migrations-icon.png"
+url = "https://github.com/elias-allan/personal-portfolio/blob/main/config/assets/projects/ccm-dd-migrations.png"
 
 [[project]]
-title = "Fundo"
-category = "Web design"
-image = "./config/assets/projects/project-3.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "MVP with Apache Spark"
+category = "Data Engineering"
+image = "./config/assets/projects/mvp-apache-Spark-icon.png"
+url = "https://github.com/elias-allan/personal-portfolio/blob/main/config/assets/projects/mvp-apache-Spark.png"
 
-[[project]]
-title = "Brawlhalla"
-category = "Applications"
-image = "./config/assets/projects/project-4.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+# [[project]]
+# title = "Orizon"
+# category = "Data Science"
+# image = "./config/assets/projects/project-2.png"
+# url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
 
-[[project]]
-title = "DSM."
-category = "Web design"
-image = "./config/assets/projects/project-5.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+# [[project]]
+# title = "Fundo"
+# category = "BI Reporting"
+# image = "./config/assets/projects/project-3.jpg"
+# url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
 
-[[project]]
-title = "MetaSpark"
-category = "Web design"
-image = "./config/assets/projects/project-6.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+# [[project]]
+# title = "Brawlhalla"
+# category = "Applications"
+# image = "./config/assets/projects/project-4.png"
+# url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
 
-[[project]]
-title = "Summary"
-category = "Web development"
-image = "./config/assets/projects/project-7.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
+# [[project]]
+# title = "DSM."
+# category = "BI Reporting"
+# image = "./config/assets/projects/project-5.png"
+# url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
 
-[[project]]
-title = "Task Manager"
-category = "Applications"
-image = "./config/assets/projects/project-8.jpg"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+# [[project]]
+# title = "MetaSpark"
+# category = "BI Reporting"
+# image = "./config/assets/projects/project-6.png"
+# url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
 
-[[project]]
-title = "Arrival"
-category = "Web development"
-image = "./config/assets/projects/project-9.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+# [[project]]
+# title = "Summary"
+# category = "Data Science"
+# image = "./config/assets/projects/project-7.png"
+# url = "https://github.com/ivansaul/codigo_facilito_downloader"
+
+# [[project]]
+# title = "Task Manager"
+# category = "Applications"
+# image = "./config/assets/projects/project-8.jpg"
+# url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+
+# [[project]]
+# title = "Arrival"
+# category = "Data Science"
+# image = "./config/assets/projects/project-9.png"
+# url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
