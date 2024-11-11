@@ -1,37 +1,37 @@
 [[project]]
 title = "Azure Data Engineer Associate"
 category = "Azure Certifications"
-image = "./config/assets/icons/microsoft-certified-azure-data-engineer-associate.png"
+image = "./config/assets/projects/microsoft-certified-azure-data-engineer-associate.png"
 url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/7BB463FF8336FF89?sharingId=EF9D6197CA26569F"
 
 [[project]]
 title = "Fabric Analytics Engineer Associate"
 category = "Azure Certifications"
-image = "./config/assets/icons/Azure-DP-600.png"
+image = "./config/assets/projects/Azure-DP-600.png"
 url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/CFB4034B0FE1FB6B?sharingId=EF9D6197CA26569F"
 
 [[project]]
 title = "Azure AI Engineer Associate"
 category = "Azure Certifications"
-image = "./config/assets/icons/microsoft-certified-azure-AI-Engineer.PNG"
+image = "./config/assets/projects/microsoft-certified-azure-AI-Engineer.PNG"
 url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/F0BFC1D12C97907?sharingId=EF9D6197CA26569F"
 
 [[project]]
 title = "Azure Data Scientist Associate"
 category = "Azure Certifications"
-image = "./config/assets/icons/microsoft-certified-azure-data-scientist-associate.png"
+image = "./config/assets/projects/microsoft-certified-azure-data-scientist-associate.png"
 url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/ECF9DE8C5A918F9B?sharingId=EF9D6197CA26569F"
 
 [[project]]
 title = "Azure Data Fundamentals"
 category = "Azure Certifications"
-image = "./config/assets/icons/microsoft-certified-azure-data-fundamentals.png"
+image = "./config/assets/projects/microsoft-certified-azure-data-fundamentals.png"
 url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/8B7B5B3247CC780A?sharingId=EF9D6197CA26569F"
 
 [[project]]
 title = "Azure Fundamentals"
 category = "Azure Certifications"
-image = "./config/assets/icons/microsoft-certified-azure-fundamentals.png"
+image = "./config/assets/projects/microsoft-certified-azure-fundamentals.png"
 url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/334A9DFEBAA68572?sharingId=EF9D6197CA26569F"
 
 [[project]]

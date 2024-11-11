@@ -19,7 +19,7 @@ description = "Machine Learning and Intelligent Data Analysis,Neural Networks,In
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Vaisa Data Analyst Intern"
+title = "Vaisala Data Analyst Intern"
 timeline = "06 2021 — 11 2021"
 description = "Extracting, Transforming and Loading (ETL): streaming data from Lidar streaming sensor feed to AWS S3 lakehouse, deploying ML models for weather classification"
 

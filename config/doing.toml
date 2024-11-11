@@ -1,19 +1,19 @@
 [[doing]]
 title = "Data Engineering"
-icon = "./config/assets/icons/mobile.svg"
+icon = "./config/assets/icons/00606-icon-service-Azure-Synapse-Analytics.svg"
 text = "Modern Data platform with Azure Synapse & Microsoft Fabric, Data Migration, Data Integration"
 
 [[doing]]
 title = "Data Warehouse solutions"
-icon = "./config/assets/icons/code.svg"
+icon = "./config/assets/icons/00036-icon-service-SQL-Data-Warehouses.svg"
 text = "Database Design, Data Modelling, SQL Data Integration, SQL Query Optimization, Azure Data Warehouse"
 
 [[doing]]
 title = "Data Platform Deployment"
-icon = "./config/assets/icons/compass.svg"
+icon = "./config/assets/icons/00036-icon-service-Azure-DevOps.svg"
 text = "Build-Deploy Azure CICD Data Platforms with Azure DevOps & GitHub Actions"
 
 [[doing]]
-title = "Data Analytics Engineering"
-icon = "./config/assets/icons/laptop-code.svg"
+title = "Data Analytics"
+icon = "./config/assets/icons/00036-icon-service-Power-BI-Embedded.svg"
 text = "Build-train-deploy ML models, MLOps, Power BI Modelling & Reporting"
