@@ -1,22 +1,28 @@
 ############### Section config ##################
 #################################################
-title = "Tech Experience"
-enabled = true # false
+title = "Certified Experience"
+enabled = true                 # false
 
 ############### Technologies ####################
 #################################################
 # Technology I have worked with
 # name = "./.../../icon_path"
 [technologies]
-python = "./config/assets/icons/python.svg"
-flutter = "./config/assets/icons/flutter.svg"
-git = "./config/assets/icons/git.svg"
-figma = "./config/assets/icons/figma.svg"
-firebase = "./config/assets/icons/firebase.svg"
-pandas = "./config/assets/icons/pandas.svg"
-mongodb = "./config/assets/icons/mongodb.svg"
-dart = "./config/assets/icons/dart.svg"
-html = "./config/assets/icons/html.svg"
-ai = "./config/assets/icons/ai.svg"
-jupyter = "./config/assets/icons/jupyter.svg"
-linux = "./config/assets/icons/linux.svg"
+# python = "./config/assets/icons/python.svg"
+# flutter = "./config/assets/icons/flutter.svg"
+# git = "./config/assets/icons/git.svg"
+# figma = "./config/assets/icons/figma.svg"
+# firebase = "./config/assets/icons/firebase.svg"
+# pandas = "./config/assets/icons/pandas.svg"
+# mongodb = "./config/assets/icons/mongodb.svg"
+# dart = "./config/assets/icons/dart.svg"
+# html = "./config/assets/icons/html.svg"
+# ai = "./config/assets/icons/ai.svg"
+# jupyter = "./config/assets/icons/jupyter.svg"
+# linux = "./config/assets/icons/linux.svg"
+azure_data_fabric = "./config/assets/icons/Azure-DP-600.png"
+azure_data_engineer = "./config/assets/icons/microsoft-certified-azure-data-engineer-associate.png"
+azure_data_ai_engineer = "./config/assets/icons/microsoft-certified-azure-AI-Engineer.PNG"
+azure_data_science = "./config/assets/icons/microsoft-certified-azure-data-scientist-associate.png"
+azure_fundamentals = "./config/assets/icons/microsoft-certified-azure-fundamentals.png"
+azure_data_fundamentals = "./config/assets/icons/microsoft-certified-azure-data-fundamentals.png"
