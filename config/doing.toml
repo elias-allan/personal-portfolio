@@ -10,10 +10,10 @@ text = "Database Design, Data Modelling, SQL Data Integration, SQL Query Optimiz
 
 [[doing]]
 title = "Data Platform Deployment"
-icon = "./config/assets/icons/00036-icon-service-Azure-DevOps.svg"
+icon = "./config/assets/icons/10261-icon-service-Azure-DevOps.svg"
 text = "Build-Deploy Azure CICD Data Platforms with Azure DevOps & GitHub Actions"
 
 [[doing]]
 title = "Data Analytics"
-icon = "./config/assets/icons/00036-icon-service-Power-BI-Embedded.svg"
+icon = "./config/assets/icons/03332-icon-service-Power-BI-Embedded.svg"
 text = "Build-train-deploy ML models, MLOps, Power BI Modelling & Reporting"
