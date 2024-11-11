@@ -1,12 +1,11 @@
 ############### Section config ##################
 #################################################
-title = "Certified Experience"
-enabled = true                 # false
+title = "Data Stack Technologies"
+enabled = true                    # false
 
 ############### Technologies ####################
 #################################################
-# Technology I have worked with
-# name = "./.../../icon_path"
+
 [technologies]
 data_factory = "./config/assets/icons/10126-icon-service-Data-Factories.svg"
 databricks = "./config/assets/icons/10787-icon-service-Azure-Databricks.svg"
