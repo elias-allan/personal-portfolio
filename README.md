@@ -15,7 +15,7 @@ responsive for all devices, built using **`HTML`**, **`CSS`**, **`JavaScript`**,
 ![GitHub stars][github-stars]
 ![GitHub forks][github-forks]
 
-<a href="linkedin.com/in/allan-elias-b79740153">
+<a href="https://www.linkedin.com/in/allan-elias-b79740153/">
     <img alt="twitter Server" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/social/twitter-singular_64h.png">
 </a>
 
@@ -26,7 +26,7 @@ responsive for all devices, built using **`HTML`**, **`CSS`**, **`JavaScript`**,
 <div align="center">
 
 ![Demo][demo]
-**`Live Demo:`** 👉🏽 [personal-portfolio.github.io][devfolio]
+**`Live Demo:`** 👉🏽 "https://elias-allan.github.io/personal-portfolio"
 
 <!-- </div> -->
 
