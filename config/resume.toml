@@ -64,16 +64,16 @@ value = "80%"
 
 ############## Language config ##################
 #################################################
-# [languages]
-# title = "Languages"
-# enabled = true
-# show_bar = true
-# show_value = true
+[languages]
+title = "Languages"
+enabled = false
+show_bar = true
+show_value = true
 
-# [[language]]
-# title = "Ingles"
-# value = "60%"
+[[language]]
+title = "English"
+value = "90%"
 
-# [[language]]
-# title = "French"
-# value = "50%"
+[[language]]
+title = "other"
+value = "50%"
