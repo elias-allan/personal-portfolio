@@ -1,26 +1,26 @@
 [[project]]
-title = "Flutter Cinemapedia App"
-category = "Mobile development"
-image = "https://i.imgur.com/ANDVQ4o.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Azure Data Engineer Associate"
+category = "Azure Certifications"
+image = "./config/assets/icons/microsoft-certified-azure-data-engineer-associate.png"
+url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/7BB463FF8336FF89?sharingId=EF9D6197CA26569F"
 
 [[project]]
-title = "Flutter Coffee Shop App"
-category = "Mobile development"
-image = "https://imgur.com/2nNXhDN.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+title = "Fabric Analytics Engineer Associate"
+category = "Azure Certifications"
+image = "./config/assets/icons/Azure-DP-600.png"
+url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/CFB4034B0FE1FB6B?sharingId=EF9D6197CA26569F"
 
 [[project]]
-title = "Flutter Todo App"
-category = "Mobile development"
-image = "https://imgur.com/7110Lj1.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "Azure AI Engineer Associate"
+category = "Azure Certifications"
+image = "./config/assets/icons/microsoft-certified-azure-AI-Engineer.PNG"
+url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/F0BFC1D12C97907?sharingId=EF9D6197CA26569F"
 
 [[project]]
-title = "Flutter Travel News App"
-category = "Mobile development"
-image = "https://imgur.com/t5T5Ixa.png"
-url = "https://github.com/ivansaul/flutter_travel_news_app#screenshots"
+title = "Azure Data Scientist Associate"
+category = "Azure Certifications"
+image = "./config/assets/icons/microsoft-certified-azure-data-scientist-associate.png"
+url = "https://learn.microsoft.com/api/credentials/share/en-us/AllanElias-1401/ECF9DE8C5A918F9B?sharingId=EF9D6197CA26569F"
 
 [[project]]
 title = "Codigo Facilito Downloader"
