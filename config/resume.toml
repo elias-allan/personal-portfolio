@@ -43,24 +43,24 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Azure Data Factory:"
+title = "[Azure Data Factory]: Control Flow, Data Flow, Schedule, Monitor "
+value = "93%"
+
+[[skill]]
+title = "[Azure Synapse Analytics]: Data Explorer, Synapse SQL Pool, T-SQL, Apache, Spark, ML Models"
+value = "95%"
+
+[[skill]]
+title = "[Azure Databricks]: ETL pipeline, Apache Spark, Delta Lake, MLflow, REST API"
 value = "90%"
 
 [[skill]]
-title = "Azure Synapse Analytics: T-SQL, PySpark"
-value = "90%"
+title = "[Microsoft Fabric]: OneLake unified data lake, Synapse Data Warehouse, PySpark Notebooks, ML models, BI Tools"
+value = "85%"
 
 [[skill]]
-title = "Azure Databricks:Apache Spark, Delta Lake, MLflow, REST API"
-value = "90%"
-
-[[skill]]
-title = "Microsoft Fabric: lakehouse, Notebooks, ML models, BI Tools"
-value = "80%"
-
-[[skill]]
-title = "Power BI: Data Modelling, Power Query, DAX"
-value = "80%"
+title = "[Power BI]: Data Modelling, Power Query, DAX"
+value = "83%"
 
 ############## Language config ##################
 #################################################
