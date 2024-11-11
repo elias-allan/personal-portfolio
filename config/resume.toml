@@ -19,19 +19,19 @@ description = "Machine Learning and Intelligent Data Analysis,Neural Networks,In
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Vaisa Data Analyst Intern"
+timeline = "06-2021 — 11-2021"
+description = "Extracting, Transforming and Loading (ETL): streaming data from Lidar streaming sensor feed to AWS S3 lakehouse, deploying ML models for weather classification"
 
 [[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "ANS Data Engineer Consultant"
+timeline = "2021 — 2023"
+description = "Data consultantation : Data migration, Modern Data platform with Azure Synapse Analytics & Microsolf Fabric, Power BI Data Models & reporting"
 
 [[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+title = "Capita Data Engineer"
+timeline = "2023 — Present"
+description = "Build, Deplying and managing data platform with Azure DevOps, ETL Data with Azure Data factory & Synapse Analytics, Cloud Data migration, SQL-Server Database Design "
 
 
 ############## Skills config ####################
@@ -43,33 +43,37 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Web design"
-value = "80%"
-
-[[skill]]
-title = "Graphic design"
-value = "70%"
-
-[[skill]]
-title = "Branding"
+title = "Azure Data Factory:"
 value = "90%"
 
 [[skill]]
-title = "WordPress"
-value = "50%"
+title = "Azure Synapse Analytics: T-SQL, PySpark"
+value = "90%"
+
+[[skill]]
+title = "Azure Databricks:Apache Spark, Delta Lake, MLflow, REST API"
+value = "90%"
+
+[[skill]]
+title = "Microsoft Fabric: lakehouse, Notebooks, ML models, BI Tools"
+value = "80%"
+
+[[skill]]
+title = "Power BI: Data Modelling, Power Query, DAX"
+value = "80%"
 
 ############## Language config ##################
 #################################################
-[languages]
-title = "Languages"
-enabled = true
-show_bar = true
-show_value = true
+# [languages]
+# title = "Languages"
+# enabled = true
+# show_bar = true
+# show_value = true
 
-[[language]]
-title = "Ingles"
-value = "60%"
+# [[language]]
+# title = "Ingles"
+# value = "60%"
 
-[[language]]
-title = "French"
-value = "50%"
+# [[language]]
+# title = "French"
+# value = "50%"
